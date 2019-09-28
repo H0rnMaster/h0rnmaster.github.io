@@ -1,8 +1,8 @@
-Origin: H0rnmaster's Repo
-Label: H0rnmaster's Repo
+Origin: H0rnMaster's Repo
+Label: H0rnMaster's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: H0rnmaster's Repo
+Description: H0rnMaster's Repo

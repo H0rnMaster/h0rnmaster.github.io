@@ -1,0 +1,13 @@
+Package: com.h0rnmaster.safehouse
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: H0rnMaster h0rnmaster@yandex.com
+Filename: /SafeHouse.deb
+Size: 32479084
+MD5sum: 9da5ccf164763b8112077fc8de3f44c9
+SHA1: a239a3ccb83ed1e17992d00eb20971f475a0ec02
+SHA256: 9d114c7b1a167649bf5533d03d0401ef9069674b7bb124bcf3fb16a9b13c2854
+Section: Apps
+Description: Test App
+Author: H0rnMaster
+Name: SafeHouse

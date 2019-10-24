@@ -12,9 +12,8 @@ Description: Test App
 Author: H0rnMaster
 Name: SafeHouse
 
-
 Package: com.h0rnmaster.Installer
-Version: 10
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: H0rnMaster h0rnmaster@yandex.com
 Filename: /Installer.deb
